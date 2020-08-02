@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/styles.css') }}">
+    <title>Bulk Order Prediction</title>
+  </head>
+  <body id="body_bulk">
+    <nav class="navbar navbar-light bg-dark justify-content-between">
+      <a class="navbar-brand" style="color:#2ec4b6">Company Name</a>
+      <form class="form-inline">
+        <p class="lead">
+          <button type="button" onclick= "window.location.href='home.html'" class="btn btn-warning">Home</button>
+        </p>
+        <p class="lead">
+          <button type="button" onclick= "window.location.href='single.html'" class="btn btn-link" style="color:#f0f3bd;">Single Prediction</button>
+        </p>
+        <!-- <button class="btn btn-outline-success" type="button">Home</button>
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Single Prediction</button> -->
+      </form>
+    </nav>
+    <br>
+    <p></p>
+    <p></p>
+    <p></p>
+    <br>
+    <!-- <div class="container">
+      <img src="images/image1.jpg" alt="Snow" style="width:100%;">
+      <div class="centered">Centered</div>
+    </div> -->
+
+        <section id="single-page-header">
+          <div class="overlay">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                  <div class="single-page-header-left">
+                    <h2 style="color:#f0f3bd">Bulk Prediction</h2>
+                    <p>Please upload a csv file and press submit to view results.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+      </section>
+
+
+  <br>
+  <p></p>
+  <p></p>
+  <p></p>
+  <br>
+
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="title-area">
+            <form action="bulk_results" method='post'  enctype="multipart/form-data">
+              <input type="file" id="myFile" name="filename" ><br>
+              <p></p><br>
+              <p></p><br>
+              <p class="lead">
+                <button type="submit" class="btn btn-outline-info">Upload file</button>
+              </p>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </body>
+</html>

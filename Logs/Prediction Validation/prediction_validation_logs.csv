@@ -1,0 +1,478 @@
+date,time,logs
+2020-05-27,14:44:42,Prediction Data has been loaded Successfully.
+2020-05-27,14:44:42,Prediction Data Validation has started.
+2020-05-27,14:44:42,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-27,14:44:42,Loading of prediction Data has Started.
+2020-05-27,14:44:42,Data has been loadded succesfully
+2020-05-27,14:44:42,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-27,14:44:42,Entered column_validate module of validateRawPredictionData class.
+2020-05-27,14:44:42,Data Validation has Stared.
+2020-05-27,14:44:42,Columns in the data are valid.
+2020-05-27,14:44:42,Exited column_validate module of validateRawPredictionData class.
+2020-05-27,14:44:42,Columns are Valid in the Training Data.
+2020-05-27,14:44:42,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,14:44:42,Null Values Check has started.
+2020-05-27,14:44:42,No column in the Dataset has complete null values.
+2020-05-27,14:44:42,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,14:44:42,No column in the dataset has complete null values.
+2020-05-27,14:44:42,prediction data validation is complete.
+2020-05-27,14:44:42,Exited validate_predict_data method of predictionValidation class.
+2020-05-27,14:50:59,Prediction Data has been loaded Successfully.
+2020-05-27,14:50:59,Prediction Data Validation has started.
+2020-05-27,14:50:59,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-27,14:50:59,Loading of prediction Data has Started.
+2020-05-27,14:50:59,Data has been loadded succesfully
+2020-05-27,14:50:59,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-27,14:50:59,Entered column_validate module of validateRawPredictionData class.
+2020-05-27,14:50:59,Data Validation has Stared.
+2020-05-27,14:50:59,Columns in the data are valid.
+2020-05-27,14:50:59,Exited column_validate module of validateRawPredictionData class.
+2020-05-27,14:50:59,Columns are Valid in the Training Data.
+2020-05-27,14:50:59,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,14:50:59,Null Values Check has started.
+2020-05-27,14:50:59,No column in the Dataset has complete null values.
+2020-05-27,14:50:59,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,14:50:59,No column in the dataset has complete null values.
+2020-05-27,14:50:59,prediction data validation is complete.
+2020-05-27,14:50:59,Exited validate_predict_data method of predictionValidation class.
+2020-05-27,15:05:25,Prediction Data has been loaded Successfully.
+2020-05-27,15:05:25,Prediction Data Validation has started.
+2020-05-27,15:05:25,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-27,15:05:25,Loading of prediction Data has Started.
+2020-05-27,15:05:25,Data has been loadded succesfully
+2020-05-27,15:05:25,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-27,15:05:25,Entered column_validate module of validateRawPredictionData class.
+2020-05-27,15:05:25,Data Validation has Stared.
+2020-05-27,15:05:25,Columns in the data are valid.
+2020-05-27,15:05:25,Exited column_validate module of validateRawPredictionData class.
+2020-05-27,15:05:25,Columns are Valid in the Training Data.
+2020-05-27,15:05:25,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,15:05:25,Null Values Check has started.
+2020-05-27,15:05:25,No column in the Dataset has complete null values.
+2020-05-27,15:05:25,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,15:05:25,No column in the dataset has complete null values.
+2020-05-27,15:05:25,prediction data validation is complete.
+2020-05-27,15:05:25,Exited validate_predict_data method of predictionValidation class.
+2020-05-27,15:09:09,Prediction Data has been loaded Successfully.
+2020-05-27,15:09:09,Prediction Data Validation has started.
+2020-05-27,15:09:09,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-27,15:09:09,Loading of prediction Data has Started.
+2020-05-27,15:09:09,Data has been loadded succesfully
+2020-05-27,15:09:09,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-27,15:09:09,Entered column_validate module of validateRawPredictionData class.
+2020-05-27,15:09:09,Data Validation has Stared.
+2020-05-27,15:09:09,Columns in the data are valid.
+2020-05-27,15:09:09,Exited column_validate module of validateRawPredictionData class.
+2020-05-27,15:09:09,Columns are Valid in the Training Data.
+2020-05-27,15:09:09,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,15:09:09,Null Values Check has started.
+2020-05-27,15:09:09,No column in the Dataset has complete null values.
+2020-05-27,15:09:09,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,15:09:09,No column in the dataset has complete null values.
+2020-05-27,15:09:09,prediction data validation is complete.
+2020-05-27,15:09:09,Exited validate_predict_data method of predictionValidation class.
+2020-05-27,15:10:55,Prediction Data has been loaded Successfully.
+2020-05-27,15:10:56,Prediction Data Validation has started.
+2020-05-27,15:10:56,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-27,15:10:56,Loading of prediction Data has Started.
+2020-05-27,15:10:56,Data has been loadded succesfully
+2020-05-27,15:10:56,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-27,15:10:56,Entered column_validate module of validateRawPredictionData class.
+2020-05-27,15:10:56,Data Validation has Stared.
+2020-05-27,15:10:56,Columns in the data are valid.
+2020-05-27,15:10:56,Exited column_validate module of validateRawPredictionData class.
+2020-05-27,15:10:56,Columns are Valid in the Training Data.
+2020-05-27,15:10:56,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,15:10:56,Null Values Check has started.
+2020-05-27,15:10:56,No column in the Dataset has complete null values.
+2020-05-27,15:10:56,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,15:10:56,No column in the dataset has complete null values.
+2020-05-27,15:10:56,prediction data validation is complete.
+2020-05-27,15:10:56,Exited validate_predict_data method of predictionValidation class.
+2020-05-27,15:12:08,Prediction Data has been loaded Successfully.
+2020-05-27,15:12:08,Prediction Data Validation has started.
+2020-05-27,15:12:08,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-27,15:12:08,Loading of prediction Data has Started.
+2020-05-27,15:12:08,Data has been loadded succesfully
+2020-05-27,15:12:08,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-27,15:12:08,Entered column_validate module of validateRawPredictionData class.
+2020-05-27,15:12:08,Data Validation has Stared.
+2020-05-27,15:12:08,Columns in the data are valid.
+2020-05-27,15:12:08,Exited column_validate module of validateRawPredictionData class.
+2020-05-27,15:12:08,Columns are Valid in the Training Data.
+2020-05-27,15:12:08,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,15:12:08,Null Values Check has started.
+2020-05-27,15:12:08,No column in the Dataset has complete null values.
+2020-05-27,15:12:08,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,15:12:08,No column in the dataset has complete null values.
+2020-05-27,15:12:08,prediction data validation is complete.
+2020-05-27,15:12:08,Exited validate_predict_data method of predictionValidation class.
+2020-05-27,15:18:33,Prediction Data has been loaded Successfully.
+2020-05-27,15:18:33,Prediction Data Validation has started.
+2020-05-27,15:18:33,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-27,15:18:33,Loading of prediction Data has Started.
+2020-05-27,15:18:33,Data has been loadded succesfully
+2020-05-27,15:18:33,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-27,15:18:33,Entered column_validate module of validateRawPredictionData class.
+2020-05-27,15:18:33,Data Validation has Stared.
+2020-05-27,15:18:33,Columns in the data are valid.
+2020-05-27,15:18:33,Exited column_validate module of validateRawPredictionData class.
+2020-05-27,15:18:33,Columns are Valid in the Training Data.
+2020-05-27,15:18:33,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,15:18:33,Null Values Check has started.
+2020-05-27,15:18:33,No column in the Dataset has complete null values.
+2020-05-27,15:18:33,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,15:18:33,No column in the dataset has complete null values.
+2020-05-27,15:18:33,prediction data validation is complete.
+2020-05-27,15:18:33,Exited validate_predict_data method of predictionValidation class.
+2020-05-27,15:28:30,Prediction Data has been loaded Successfully.
+2020-05-27,15:28:30,Prediction Data Validation has started.
+2020-05-27,15:28:30,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-27,15:28:30,Loading of prediction Data has Started.
+2020-05-27,15:28:30,Data has been loadded succesfully
+2020-05-27,15:28:30,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-27,15:28:30,Entered column_validate module of validateRawPredictionData class.
+2020-05-27,15:28:30,Data Validation has Stared.
+2020-05-27,15:28:30,Columns in the data are valid.
+2020-05-27,15:28:30,Exited column_validate module of validateRawPredictionData class.
+2020-05-27,15:28:30,Columns are Valid in the Training Data.
+2020-05-27,15:28:30,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,15:28:30,Null Values Check has started.
+2020-05-27,15:28:30,No column in the Dataset has complete null values.
+2020-05-27,15:28:30,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,15:28:30,No column in the dataset has complete null values.
+2020-05-27,15:28:30,prediction data validation is complete.
+2020-05-27,15:28:30,Exited validate_predict_data method of predictionValidation class.
+2020-05-27,16:29:55,Prediction Data has been loaded Successfully.
+2020-05-27,16:29:55,Prediction Data Validation has started.
+2020-05-27,16:29:55,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-27,16:29:55,Loading of prediction Data has Started.
+2020-05-27,16:29:55,Data has been loadded succesfully
+2020-05-27,16:29:55,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-27,16:29:55,Entered column_validate module of validateRawPredictionData class.
+2020-05-27,16:29:55,Data Validation has Stared.
+2020-05-27,16:29:55,Columns in the data are valid.
+2020-05-27,16:29:55,Exited column_validate module of validateRawPredictionData class.
+2020-05-27,16:29:55,Columns are Valid in the Training Data.
+2020-05-27,16:29:55,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,16:29:55,Null Values Check has started.
+2020-05-27,16:29:55,No column in the Dataset has complete null values.
+2020-05-27,16:29:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,16:29:55,No column in the dataset has complete null values.
+2020-05-27,16:29:55,prediction data validation is complete.
+2020-05-27,16:29:55,Exited validate_predict_data method of predictionValidation class.
+2020-05-27,17:11:10,Prediction Data has been loaded Successfully.
+2020-05-27,17:11:10,Prediction Data Validation has started.
+2020-05-27,17:11:10,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-27,17:11:10,Loading of prediction Data has Started.
+2020-05-27,17:11:10,Data has been loadded succesfully
+2020-05-27,17:11:10,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-27,17:11:10,Entered column_validate module of validateRawPredictionData class.
+2020-05-27,17:11:10,Data Validation has Stared.
+2020-05-27,17:11:10,Columns in the dataset are valid but the column data types are not valid.
+2020-05-27,17:11:10,Exited column_validate module of validateRawPredictionData class.
+2020-05-27,17:11:10,Columns are not valid in the Training Data.
+2020-05-27,17:11:10,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,17:11:10,Null Values Check has started.
+2020-05-27,17:11:10,No column in the Dataset has complete null values.
+2020-05-27,17:11:10,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,17:11:10,No column in the dataset has complete null values.
+2020-05-27,17:11:10,prediction data validation is complete.
+2020-05-27,17:11:10,Exited validate_predict_data method of predictionValidation class.
+2020-05-27,17:25:52,Prediction Data has been loaded Successfully.
+2020-05-27,17:25:52,Prediction Data Validation has started.
+2020-05-27,17:25:52,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-27,17:25:52,Loading of prediction Data has Started.
+2020-05-27,17:25:52,Data has been loadded succesfully
+2020-05-27,17:25:52,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-27,17:25:52,Entered column_validate module of validateRawPredictionData class.
+2020-05-27,17:25:52,Data Validation has Stared.
+2020-05-27,17:25:52,Columns in the dataset are valid but the column data types are not valid.
+2020-05-27,17:25:52,Exited column_validate module of validateRawPredictionData class.
+2020-05-27,17:25:52,Columns are not valid in the Training Data.
+2020-05-27,17:25:52,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,17:25:52,Null Values Check has started.
+2020-05-27,17:25:52,No column in the Dataset has complete null values.
+2020-05-27,17:25:52,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,17:25:52,No column in the dataset has complete null values.
+2020-05-27,17:25:52,prediction data validation is complete.
+2020-05-27,17:25:52,Exited validate_predict_data method of predictionValidation class.
+2020-05-27,17:26:40,Prediction Data has been loaded Successfully.
+2020-05-27,17:26:40,Prediction Data Validation has started.
+2020-05-27,17:26:40,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-27,17:26:40,Loading of prediction Data has Started.
+2020-05-27,17:26:40,Data has been loadded succesfully
+2020-05-27,17:26:40,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-27,17:26:40,Entered column_validate module of validateRawPredictionData class.
+2020-05-27,17:26:40,Data Validation has Stared.
+2020-05-27,17:26:40,Columns in the dataset are valid but the column data types are not valid.
+2020-05-27,17:26:40,Exited column_validate module of validateRawPredictionData class.
+2020-05-27,17:26:40,Columns are not valid in the Training Data.
+2020-05-27,17:26:41,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,17:26:41,Null Values Check has started.
+2020-05-27,17:26:41,No column in the Dataset has complete null values.
+2020-05-27,17:26:41,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,17:26:41,No column in the dataset has complete null values.
+2020-05-27,17:26:41,prediction data validation is complete.
+2020-05-27,17:26:41,Exited validate_predict_data method of predictionValidation class.
+2020-05-27,17:27:16,Prediction Data has been loaded Successfully.
+2020-05-27,17:27:16,Prediction Data Validation has started.
+2020-05-27,17:27:16,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-27,17:27:16,Loading of prediction Data has Started.
+2020-05-27,17:27:16,Data has been loadded succesfully
+2020-05-27,17:27:16,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-27,17:27:16,Entered column_validate module of validateRawPredictionData class.
+2020-05-27,17:27:16,Data Validation has Stared.
+2020-05-27,17:27:16,Columns in the data are valid.
+2020-05-27,17:27:16,Exited column_validate module of validateRawPredictionData class.
+2020-05-27,17:27:16,Columns are Valid in the Training Data.
+2020-05-27,17:27:16,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,17:27:16,Null Values Check has started.
+2020-05-27,17:27:16,No column in the Dataset has complete null values.
+2020-05-27,17:27:16,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,17:27:16,No column in the dataset has complete null values.
+2020-05-27,17:27:16,prediction data validation is complete.
+2020-05-27,17:27:16,Exited validate_predict_data method of predictionValidation class.
+2020-05-27,17:27:48,Prediction Data has been loaded Successfully.
+2020-05-27,17:27:48,Prediction Data Validation has started.
+2020-05-27,17:27:48,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-27,17:27:48,Loading of prediction Data has Started.
+2020-05-27,17:27:48,Data has been loadded succesfully
+2020-05-27,17:27:48,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-27,17:27:48,Entered column_validate module of validateRawPredictionData class.
+2020-05-27,17:27:48,Data Validation has Stared.
+2020-05-27,17:27:48,Columns in the data are valid.
+2020-05-27,17:27:48,Exited column_validate module of validateRawPredictionData class.
+2020-05-27,17:27:48,Columns are Valid in the Training Data.
+2020-05-27,17:27:48,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,17:27:48,Null Values Check has started.
+2020-05-27,17:27:48,No column in the Dataset has complete null values.
+2020-05-27,17:27:48,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,17:27:48,No column in the dataset has complete null values.
+2020-05-27,17:27:48,prediction data validation is complete.
+2020-05-27,17:27:48,Exited validate_predict_data method of predictionValidation class.
+2020-05-27,17:30:55,Prediction Data has been loaded Successfully.
+2020-05-27,17:30:55,Prediction Data Validation has started.
+2020-05-27,17:30:55,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-27,17:30:55,Loading of prediction Data has Started.
+2020-05-27,17:30:55,Data has been loadded succesfully
+2020-05-27,17:30:55,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-27,17:30:55,Entered column_validate module of validateRawPredictionData class.
+2020-05-27,17:30:55,Data Validation has Stared.
+2020-05-27,17:30:55,Columns in the dataset are valid but the column data types are not valid.
+2020-05-27,17:30:55,Exited column_validate module of validateRawPredictionData class.
+2020-05-27,17:30:55,Columns are not valid in the Training Data.
+2020-05-27,17:30:55,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,17:30:55,Null Values Check has started.
+2020-05-27,17:30:55,No column in the Dataset has complete null values.
+2020-05-27,17:30:55,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,17:30:55,No column in the dataset has complete null values.
+2020-05-27,17:30:55,prediction data validation is complete.
+2020-05-27,17:30:55,Exited validate_predict_data method of predictionValidation class.
+2020-05-27,17:31:34,Prediction Data has been loaded Successfully.
+2020-05-27,17:31:34,Prediction Data Validation has started.
+2020-05-27,17:31:34,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-27,17:31:34,Loading of prediction Data has Started.
+2020-05-27,17:31:34,Data has been loadded succesfully
+2020-05-27,17:31:34,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-27,17:31:34,Entered column_validate module of validateRawPredictionData class.
+2020-05-27,17:31:34,Data Validation has Stared.
+2020-05-27,17:31:34,Columns in the dataset are valid but the column data types are not valid.
+2020-05-27,17:31:34,Exited column_validate module of validateRawPredictionData class.
+2020-05-27,17:31:34,Columns are not valid in the Training Data.
+2020-05-27,17:31:34,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,17:31:34,Null Values Check has started.
+2020-05-27,17:31:34,No column in the Dataset has complete null values.
+2020-05-27,17:31:34,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,17:31:34,No column in the dataset has complete null values.
+2020-05-27,17:31:34,prediction data validation is complete.
+2020-05-27,17:31:34,Exited validate_predict_data method of predictionValidation class.
+2020-05-27,17:32:32,Prediction Data has been loaded Successfully.
+2020-05-27,17:32:32,Prediction Data Validation has started.
+2020-05-27,17:32:32,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-27,17:32:32,Loading of prediction Data has Started.
+2020-05-27,17:32:32,Data has been loadded succesfully
+2020-05-27,17:32:32,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-27,17:32:32,Entered column_validate module of validateRawPredictionData class.
+2020-05-27,17:32:32,Data Validation has Stared.
+2020-05-27,17:32:32,Columns in the dataset are valid but the column data types are not valid.
+2020-05-27,17:32:32,Exited column_validate module of validateRawPredictionData class.
+2020-05-27,17:32:32,Columns are not valid in the Training Data.
+2020-05-27,17:32:32,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,17:32:32,Null Values Check has started.
+2020-05-27,17:32:32,No column in the Dataset has complete null values.
+2020-05-27,17:32:32,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,17:32:32,No column in the dataset has complete null values.
+2020-05-27,17:32:32,prediction data validation is complete.
+2020-05-27,17:32:32,Exited validate_predict_data method of predictionValidation class.
+2020-05-27,17:33:31,Prediction Data has been loaded Successfully.
+2020-05-27,17:33:31,Prediction Data Validation has started.
+2020-05-27,17:33:31,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-27,17:33:31,Loading of prediction Data has Started.
+2020-05-27,17:33:31,Data has been loadded succesfully
+2020-05-27,17:33:31,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-27,17:33:31,Entered column_validate module of validateRawPredictionData class.
+2020-05-27,17:33:31,Data Validation has Stared.
+2020-05-27,17:33:31,Columns in the dataset are valid but the column data types are not valid.
+2020-05-27,17:33:31,Exited column_validate module of validateRawPredictionData class.
+2020-05-27,17:33:31,Columns are not valid in the Training Data.
+2020-05-27,17:33:31,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,17:33:31,Null Values Check has started.
+2020-05-27,17:33:31,No column in the Dataset has complete null values.
+2020-05-27,17:33:31,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,17:33:31,No column in the dataset has complete null values.
+2020-05-27,17:33:31,prediction data validation is complete.
+2020-05-27,17:33:31,Exited validate_predict_data method of predictionValidation class.
+2020-05-27,17:34:11,Prediction Data has been loaded Successfully.
+2020-05-27,17:34:11,Prediction Data Validation has started.
+2020-05-27,17:34:11,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-27,17:34:11,Loading of prediction Data has Started.
+2020-05-27,17:34:11,Data has been loadded succesfully
+2020-05-27,17:34:11,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-27,17:34:11,Entered column_validate module of validateRawPredictionData class.
+2020-05-27,17:34:11,Data Validation has Stared.
+2020-05-27,17:34:11,Columns in the dataset are valid but the column data types are not valid.
+2020-05-27,17:34:11,Exited column_validate module of validateRawPredictionData class.
+2020-05-27,17:34:11,Columns are not valid in the Training Data.
+2020-05-27,17:34:11,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,17:34:11,Null Values Check has started.
+2020-05-27,17:34:11,No column in the Dataset has complete null values.
+2020-05-27,17:34:11,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-27,17:34:11,No column in the dataset has complete null values.
+2020-05-27,17:34:11,prediction data validation is complete.
+2020-05-27,17:34:11,Exited validate_predict_data method of predictionValidation class.
+2020-05-28,17:33:22,Prediction Data has been loaded Successfully.
+2020-05-28,17:33:22,Prediction Data Validation has started.
+2020-05-28,17:33:23,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-28,17:33:23,Loading of prediction Data has Started.
+2020-05-28,17:33:23,"Data has not loaded. The Exception occured is Error tokenizing data. C error: Expected 1 fields in line 8, saw 3
+"
+2020-05-28,17:33:23,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-28,17:33:23,Exception occured in validate_predict_data method of predictionValidation class. The exception is 
+2020-05-28,17:33:23,Exited validate_predict_data method of predictionValidation class.
+2020-05-28,17:37:29,Prediction Data has been loaded Successfully.
+2020-05-28,17:37:29,Prediction Data Validation has started.
+2020-05-28,17:37:29,Entered load_prediction_data method of predictionDataLoader class.
+2020-05-28,17:37:29,Loading of prediction Data has Started.
+2020-05-28,17:37:29,Data has been loadded succesfully
+2020-05-28,17:37:29,Exiting load_prediction_data method of predictionDataLoader class.
+2020-05-28,17:37:29,Entered column_validate module of validateRawPredictionData class.
+2020-05-28,17:37:29,Data Validation has Stared.
+2020-05-28,17:37:29,Columns in the data are valid.
+2020-05-28,17:37:29,Exited column_validate module of validateRawPredictionData class.
+2020-05-28,17:37:29,Columns are Valid in the Training Data.
+2020-05-28,17:37:29,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-28,17:37:29,Null Values Check has started.
+2020-05-28,17:37:29,No column in the Dataset has complete null values.
+2020-05-28,17:37:29,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-05-28,17:37:29,No column in the dataset has complete null values.
+2020-05-28,17:37:29,prediction data validation is complete.
+2020-05-28,17:37:29,Exited validate_predict_data method of predictionValidation class.
+2020-06-04,12:15:03,Prediction Data has been loaded Successfully.
+2020-06-04,12:15:03,Prediction Data Validation has started.
+2020-06-04,12:15:03,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-04,12:15:03,Loading of prediction Data has Started.
+2020-06-04,12:15:03,Data has been loadded succesfully
+2020-06-04,12:15:03,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-04,12:15:03,Entered column_validate module of validateRawPredictionData class.
+2020-06-04,12:15:03,Data Validation has Stared.
+2020-06-04,12:15:03,Columns in the data are not valid.
+2020-06-04,12:15:03,Exited column_validate module of validateRawPredictionData class.
+2020-06-04,12:15:03,Columns are not valid in the Training Data.
+2020-06-04,12:15:03,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,12:15:03,Null Values Check has started.
+2020-06-04,12:15:03,No column in the Dataset has complete null values.
+2020-06-04,12:15:03,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,12:15:03,No column in the dataset has complete null values.
+2020-06-04,12:15:03,prediction data validation is complete.
+2020-06-04,12:15:03,Exited validate_predict_data method of predictionValidation class.
+2020-06-04,12:15:24,Prediction Data has been loaded Successfully.
+2020-06-04,12:15:24,Prediction Data Validation has started.
+2020-06-04,12:15:24,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-04,12:15:24,Loading of prediction Data has Started.
+2020-06-04,12:15:24,Data has been loadded succesfully
+2020-06-04,12:15:24,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-04,12:15:24,Entered column_validate module of validateRawPredictionData class.
+2020-06-04,12:15:24,Data Validation has Stared.
+2020-06-04,12:15:24,Columns in the data are valid.
+2020-06-04,12:15:24,Exited column_validate module of validateRawPredictionData class.
+2020-06-04,12:15:24,Columns are Valid in the Training Data.
+2020-06-04,12:15:24,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,12:15:24,Null Values Check has started.
+2020-06-04,12:15:24,No column in the Dataset has complete null values.
+2020-06-04,12:15:24,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,12:15:24,No column in the dataset has complete null values.
+2020-06-04,12:15:24,prediction data validation is complete.
+2020-06-04,12:15:24,Exited validate_predict_data method of predictionValidation class.
+2020-06-04,13:17:14,Prediction Data has been loaded Successfully.
+2020-06-04,13:17:14,Prediction Data Validation has started.
+2020-06-04,13:17:14,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-04,13:17:14,Loading of prediction Data has Started.
+2020-06-04,13:17:14,Data has been loadded succesfully
+2020-06-04,13:17:14,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-04,13:17:14,Entered column_validate module of validateRawPredictionData class.
+2020-06-04,13:17:14,Data Validation has Stared.
+2020-06-04,13:17:15,Columns in the data are valid.
+2020-06-04,13:17:15,Exited column_validate module of validateRawPredictionData class.
+2020-06-04,13:17:15,Columns are Valid in the Training Data.
+2020-06-04,13:17:15,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,13:17:15,Null Values Check has started.
+2020-06-04,13:17:15,No column in the Dataset has complete null values.
+2020-06-04,13:17:15,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,13:17:15,No column in the dataset has complete null values.
+2020-06-04,13:17:15,prediction data validation is complete.
+2020-06-04,13:17:15,Exited validate_predict_data method of predictionValidation class.
+2020-06-04,14:51:28,Prediction Data has been loaded Successfully.
+2020-06-04,14:51:28,Prediction Data Validation has started.
+2020-06-04,14:51:28,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-04,14:51:28,Loading of prediction Data has Started.
+2020-06-04,14:51:28,Data has been loadded succesfully
+2020-06-04,14:51:28,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-04,14:51:28,Entered column_validate module of validateRawPredictionData class.
+2020-06-04,14:51:28,Data Validation has Stared.
+2020-06-04,14:51:28,Columns in the data are valid.
+2020-06-04,14:51:28,Exited column_validate module of validateRawPredictionData class.
+2020-06-04,14:51:28,Columns are Valid in the Training Data.
+2020-06-04,14:51:28,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:51:28,Null Values Check has started.
+2020-06-04,14:51:29,No column in the Dataset has complete null values.
+2020-06-04,14:51:29,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-04,14:51:29,No column in the dataset has complete null values.
+2020-06-04,14:51:29,prediction data validation is complete.
+2020-06-04,14:51:29,Exited validate_predict_data method of predictionValidation class.
+2020-06-08,21:53:56,Prediction Data has been loaded Successfully.
+2020-06-08,21:53:56,Prediction Data Validation has started.
+2020-06-08,21:53:56,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-08,21:53:56,Loading of prediction Data has Started.
+2020-06-08,21:53:56,Data has been loadded succesfully
+2020-06-08,21:53:56,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-08,21:53:56,Entered column_validate module of validateRawPredictionData class.
+2020-06-08,21:53:56,Data Validation has Stared.
+2020-06-08,21:53:56,Columns in the data are valid.
+2020-06-08,21:53:56,Exited column_validate module of validateRawPredictionData class.
+2020-06-08,21:53:56,Columns are Valid in the Training Data.
+2020-06-08,21:53:56,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:53:56,Null Values Check has started.
+2020-06-08,21:53:56,No column in the Dataset has complete null values.
+2020-06-08,21:53:56,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:53:56,No column in the dataset has complete null values.
+2020-06-08,21:53:56,prediction data validation is complete.
+2020-06-08,21:53:56,Exited validate_predict_data method of predictionValidation class.
+2020-06-08,21:55:31,Prediction Data has been loaded Successfully.
+2020-06-08,21:55:31,Prediction Data Validation has started.
+2020-06-08,21:55:31,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-08,21:55:31,Loading of prediction Data has Started.
+2020-06-08,21:55:31,Data has been loadded succesfully
+2020-06-08,21:55:31,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-08,21:55:31,Entered column_validate module of validateRawPredictionData class.
+2020-06-08,21:55:31,Data Validation has Stared.
+2020-06-08,21:55:31,Columns in the data are valid.
+2020-06-08,21:55:31,Exited column_validate module of validateRawPredictionData class.
+2020-06-08,21:55:31,Columns are Valid in the Training Data.
+2020-06-08,21:55:31,Entered entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:55:31,Null Values Check has started.
+2020-06-08,21:55:31,No column in the Dataset has complete null values.
+2020-06-08,21:55:31,Exting entire_column_null_value_check of validateRawPredicitonData class.
+2020-06-08,21:55:31,No column in the dataset has complete null values.
+2020-06-08,21:55:31,prediction data validation is complete.
+2020-06-08,21:55:31,Exited validate_predict_data method of predictionValidation class.

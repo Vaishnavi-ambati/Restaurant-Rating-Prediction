@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/bulk_results_style.css') }}">
+
+    <title>Bulk Predictions Results</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-light bg-dark justify-content-between">
+      <a class="navbar-brand" style="color:#2ec4b6">Company Name</a>
+      <form class="form-inline">
+        <p class="lead">
+          <button type="button" onclick= "window.location.href='home.html'" class="btn btn-warning">Home</button>
+        </p>
+        <p class="lead">
+          <button type="button" onclick= "window.location.href='bulk.html'" class="btn btn-link" style="color:#f0f3bd;">Bulk order Prediction</button>
+        </p>
+        <p class="lead">
+          <button type="button" onclick= "window.location.href='single.html'" class="btn btn-link" style="color:#f0f3bd;">Single order Prediction</button>
+        </p>
+      </form>
+    </nav>
+
+    <h2>Bulk Order Prediction Results</h2>
+
+    <div class="container">
+            <div class="jumbotron">
+        <p class="lead">
+            <div id="results0"><a href='Prediction_Output_Files/predictions.csv'>Predictions excel file</a></div>
+        </p>
+        <p class="lead">
+            <button id="results1" type="button" onclick= "window.location.href='top5.html'" class="btn btn-outline-info">Click to view Top 5 results of prediction</button>
+        </p>
+        <p class="lead">
+            <button id="results2" type="button" onclick= "window.location.href='bottom5.html'" class="btn btn-outline-info">Click to view Bottom 5 results of prediction</button>
+        </p>
+            </div>
+    </div>
+
+
+
+  </body>
+</html>

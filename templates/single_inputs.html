@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/single.css') }}">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <title>Single Order Prediction</title>
+  </head>
+  <body id="single_body">
+
+    <nav class="navbar navbar-dark bg-dark">
+      <a class="navbar-brand" href="#">Company Name</a>
+    </nav>
+
+
+    <h1>Single Order Prediction</h1>
+    <br>
+    <p>Please fill the below details to view prediction results: </p>
+        <br>
+    <div class="container">
+      <form action="single_results_manual.html" method='post'>
+        <label for="restname">Restaurant Name</label>
+        <input type="text" id="restname" name="restname" placeholder="Enter Restaurant Name..">
+
+        <label for="city">City</label>
+        <input type="text" id="city" name="city" placeholder="Enter City..">
+
+        <label for="cuisine">Number of Cuisines</label>
+        <input type="text" id="cuisine" name="no_of_cuisine" placeholder="Enter the number of cuisines...">
+
+        <label for="rank">Ranking</label>
+        <input type="text" id="rank" name="rank" placeholder="Enter Rank...">
+
+        <label for="reviews">Number of Reviews</label>
+        <input type="text" id="reviews" name="number_of_reviews" placeholder="Enter Number of Reviews..">
+
+        <label for="review1">Review One</label>
+        <input type="text" id="review1" name="review1" placeholder="Enter Review One..">
+
+        <label for="review2">Review Two</label>
+        <input type="text" id="review2" name="review2" placeholder="Enter Review Two..">
+
+        <label for="price">Price Range</label>
+        <select id="price" name="price">
+          <option value="cheap">Cheap</option>
+          <option value="high">High</option>
+          <option value="medium">Medium</option>
+        </select>
+
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+
+  </body>
+</html>

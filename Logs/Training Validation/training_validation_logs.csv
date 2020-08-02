@@ -1,0 +1,6 @@
+,date,time,logs
+0,2020-05-26,15:48:38,Entered validate_train class of trainValidation
+1,2020-05-26,15:48:38,Training Data Validation has started.
+2,2020-05-26,15:48:38,Data Loading has initiated.
+3,2020-05-26,15:48:38,Data has not loaded. An exception occured in data_loader method of trainingDataLoader class. Exception message: [Errno 2] File C:\Users\mural\PycharmProjects\ineuron_hackathon_templates\TA_restaurants_curated.csv does not exist: 'C:\\Users\\mural\\PycharmProjects\\ineuron_hackathon_templates\\TA_restaurants_curated.csv'
+4,2020-05-26,15:48:38,Exiting the load_data method of trainingDataLoader class.

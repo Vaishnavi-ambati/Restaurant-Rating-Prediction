@@ -1,0 +1,255 @@
+date,time,logs
+2020-05-26,15:48:38,Entered validate_train class of trainValidation
+2020-05-26,15:48:38,Training Data Validation has started.
+2020-05-26,15:48:38,Data Loading has initiated.
+2020-05-26,15:48:38,Data has not loaded. An exception occured in data_loader method of trainingDataLoader class. Exception message: [Errno 2] File C:\Users\mural\PycharmProjects\ineuron_hackathon_templates\TA_restaurants_curated.csv does not exist: 'C:\\Users\\mural\\PycharmProjects\\ineuron_hackathon_templates\\TA_restaurants_curated.csv'
+2020-05-26,15:48:38,Exiting the load_data method of trainingDataLoader class.
+2020-05-26,15:48:38,An Exception has occured in validate_train of trainValidation class. The Exception is 
+2020-05-26,15:48:38,Exting validate_train of trainValidation class.
+2020-05-26,15:50:02,Entered validate_train class of trainValidation
+2020-05-26,15:50:02,Training Data Validation has started.
+2020-05-26,15:50:02,Data Loading has initiated.
+2020-05-26,15:50:03,Data has been loaded succesfully
+2020-05-26,15:50:03,Exiting the load_data method of trainingDataLoader class.
+2020-05-26,15:50:03,Data Validation has Stared.
+2020-05-26,15:50:03,An Exception has occured in column_validate of validateRawTrainingData class. The Exception is 'validate_raw_data' object has no attribute 'raw_prediction_validation_logs'
+2020-05-26,15:50:03,Exting column_validate of validateRawTrainingData class.
+2020-05-26,15:50:03,Entered validateRawData
+2020-05-26,15:50:03,Columns are not valid in the Training Data.
+2020-05-26,15:50:03,Null Values Check has started.
+2020-05-26,15:50:03,No column in the Dataset has complete null values.
+2020-05-26,15:50:03,No column in the dataset has complete null values.
+2020-05-26,15:50:03,An Exception has occured in validate_train of trainValidation class. The Exception is unsupported operand type(s) for &: 'bool' and 'NoneType'
+2020-05-26,15:50:03,Exting validate_train of trainValidation class.
+2020-05-26,15:50:30,Entered validate_train class of trainValidation
+2020-05-26,15:50:30,Training Data Validation has started.
+2020-05-26,15:50:30,Data Loading has initiated.
+2020-05-26,15:50:31,Data has been loaded succesfully
+2020-05-26,15:50:31,Exiting the load_data method of trainingDataLoader class.
+2020-05-26,15:50:31,Data Validation has Stared.
+2020-05-26,15:50:31,An Exception has occured in column_validate of validateRawTrainingData class. The Exception is 'validate_raw_data' object has no attribute 'raw_prediction_validation_logs'
+2020-05-26,15:50:31,Exting column_validate of validateRawTrainingData class.
+2020-05-26,15:50:31,Entered validateRawData
+2020-05-26,15:50:31,Columns are not valid in the Training Data.
+2020-05-26,15:50:31,Null Values Check has started.
+2020-05-26,15:50:31,No column in the Dataset has complete null values.
+2020-05-26,15:50:31,No column in the dataset has complete null values.
+2020-05-26,15:50:31,Exting validate_train of trainValidation class.
+2020-05-26,16:13:12,Entered validate_train class of trainValidation
+2020-05-26,16:13:12,Training Data Validation has started.
+2020-05-26,16:13:12,Data Loading has initiated.
+2020-05-26,16:13:13,Data has been loaded succesfully
+2020-05-26,16:13:13,Exiting the load_data method of trainingDataLoader class.
+2020-05-26,16:13:13,Data Validation has Stared.
+2020-05-26,16:13:13,Columns in the data are not valid.
+2020-05-26,16:13:13,Exited column_validate module of validateRawTrainingData class.
+2020-05-26,16:13:13,Entered validateRawData
+2020-05-26,16:13:13,Columns are not valid in the Training Data.
+2020-05-26,16:13:13,Null Values Check has started.
+2020-05-26,16:13:13,No column in the Dataset has complete null values.
+2020-05-26,16:13:13,No column in the dataset has complete null values.
+2020-05-26,16:13:13,Exting validate_train of trainValidation class.
+2020-05-26,16:18:06,Entered validate_train class of trainValidation
+2020-05-26,16:18:06,Training Data Validation has started.
+2020-05-26,16:18:06,Data Loading has initiated.
+2020-05-26,16:18:06,Data has been loaded succesfully
+2020-05-26,16:18:06,Exiting the load_data method of trainingDataLoader class.
+2020-05-26,16:18:06,Data Validation has Stared.
+2020-05-26,16:18:06,Columns in the data are not valid.
+2020-05-26,16:18:06,Exited column_validate module of validateRawTrainingData class.
+2020-05-26,16:18:06,Entered validateRawData
+2020-05-26,16:18:06,Columns are not valid in the Training Data.
+2020-05-26,16:18:06,Null Values Check has started.
+2020-05-26,16:18:06,No column in the Dataset has complete null values.
+2020-05-26,16:18:06,No column in the dataset has complete null values.
+2020-05-26,16:18:06,Exting validate_train of trainValidation class.
+2020-05-26,16:18:51,Entered validate_train class of trainValidation
+2020-05-26,16:18:51,Training Data Validation has started.
+2020-05-26,16:18:51,Data Loading has initiated.
+2020-05-26,16:18:51,Data has been loaded succesfully
+2020-05-26,16:18:51,Exiting the load_data method of trainingDataLoader class.
+2020-05-26,16:18:51,Data Validation has Stared.
+2020-05-26,16:18:51,Columns in the data are valid.
+2020-05-26,16:18:51,Exited column_validate module of validateRawTrainingData class.
+2020-05-26,16:18:51,Entered validateRawData
+2020-05-26,16:18:51,Columns are Valid in the Training Data.
+2020-05-26,16:18:51,Null Values Check has started.
+2020-05-26,16:18:51,No column in the Dataset has complete null values.
+2020-05-26,16:18:51,No column in the dataset has complete null values.
+2020-05-26,16:18:51,Exting validate_train of trainValidation class.
+2020-05-26,16:25:29,Entered validate_train class of trainValidation
+2020-05-26,16:25:29,Training Data Validation has started.
+2020-05-26,16:25:29,Data Loading has initiated.
+2020-05-26,16:25:30,Data has been loaded succesfully
+2020-05-26,16:25:30,Exiting the load_data method of trainingDataLoader class.
+2020-05-26,16:25:30,Data Validation has Stared.
+2020-05-26,16:25:30,Columns in the data are valid.
+2020-05-26,16:25:30,Exited column_validate module of validateRawTrainingData class.
+2020-05-26,16:25:30,Entered validateRawData
+2020-05-26,16:25:30,Columns are Valid in the Training Data.
+2020-05-26,16:25:30,Null Values Check has started.
+2020-05-26,16:25:30,No column in the Dataset has complete null values.
+2020-05-26,16:25:30,No column in the dataset has complete null values.
+2020-05-26,16:25:30,Exting validate_train of trainValidation class.
+2020-05-26,16:26:28,Entered validate_train class of trainValidation
+2020-05-26,16:26:28,Training Data Validation has started.
+2020-05-26,16:26:28,Data Loading has initiated.
+2020-05-26,16:26:29,Data has been loaded succesfully
+2020-05-26,16:26:29,Exiting the load_data method of trainingDataLoader class.
+2020-05-26,16:26:29,Data Validation has Stared.
+2020-05-26,16:26:29,Columns in the data are valid.
+2020-05-26,16:26:29,Exited column_validate module of validateRawTrainingData class.
+2020-05-26,16:26:29,Entered validateRawData
+2020-05-26,16:26:29,Columns are Valid in the Training Data.
+2020-05-26,16:26:29,Null Values Check has started.
+2020-05-26,16:26:29,No column in the Dataset has complete null values.
+2020-05-26,16:26:29,No column in the dataset has complete null values.
+2020-05-26,16:26:29,Exting validate_train of trainValidation class.
+2020-05-26,16:29:47,Entered validate_train class of trainValidation
+2020-05-26,16:29:47,Training Data Validation has started.
+2020-05-26,16:29:47,Data Loading has initiated.
+2020-05-26,16:29:48,Data has been loaded succesfully
+2020-05-26,16:29:48,Exiting the load_data method of trainingDataLoader class.
+2020-05-26,16:29:48,Data Validation has Stared.
+2020-05-26,16:29:48,Columns in the data are valid.
+2020-05-26,16:29:48,Exited column_validate module of validateRawTrainingData class.
+2020-05-26,16:29:48,Entered validateRawData
+2020-05-26,16:29:48,Columns are Valid in the Training Data.
+2020-05-26,16:29:48,Null Values Check has started.
+2020-05-26,16:29:48,No column in the Dataset has complete null values.
+2020-05-26,16:29:48,No column in the dataset has complete null values.
+2020-05-26,16:29:48,Exting validate_train of trainValidation class.
+2020-05-26,16:32:43,Entered validate_train class of trainValidation
+2020-05-26,16:32:43,Training Data Validation has started.
+2020-05-26,16:32:43,Data Loading has initiated.
+2020-05-26,16:32:43,Data has been loaded succesfully
+2020-05-26,16:32:43,Exiting the load_data method of trainingDataLoader class.
+2020-05-26,16:32:43,Data Validation has Stared.
+2020-05-26,16:32:43,Columns in the data are valid.
+2020-05-26,16:32:43,Exited column_validate module of validateRawTrainingData class.
+2020-05-26,16:32:43,Entered validateRawData
+2020-05-26,16:32:43,Columns are Valid in the Training Data.
+2020-05-26,16:32:43,Null Values Check has started.
+2020-05-26,16:32:43,No column in the Dataset has complete null values.
+2020-05-26,16:32:43,No column in the dataset has complete null values.
+2020-05-26,16:32:43,Exting validate_train of trainValidation class.
+2020-05-26,16:34:34,Entered validate_train class of trainValidation
+2020-05-26,16:34:34,Training Data Validation has started.
+2020-05-26,16:34:34,Data Loading has initiated.
+2020-05-26,16:34:34,Data has been loaded succesfully
+2020-05-26,16:34:34,Exiting the load_data method of trainingDataLoader class.
+2020-05-26,16:34:34,Data Validation has Stared.
+2020-05-26,16:34:34,Columns in the data are valid.
+2020-05-26,16:34:34,Exited column_validate module of validateRawTrainingData class.
+2020-05-26,16:34:34,Entered validateRawData
+2020-05-26,16:34:34,Columns are Valid in the Training Data.
+2020-05-26,16:34:34,Null Values Check has started.
+2020-05-26,16:34:34,No column in the Dataset has complete null values.
+2020-05-26,16:34:34,No column in the dataset has complete null values.
+2020-05-26,16:34:34,Exting validate_train of trainValidation class.
+2020-05-26,16:39:08,Entered validate_train class of trainValidation
+2020-05-26,16:39:08,Training Data Validation has started.
+2020-05-26,16:39:08,Data Loading has initiated.
+2020-05-26,16:39:08,Data has been loaded succesfully
+2020-05-26,16:39:08,Exiting the load_data method of trainingDataLoader class.
+2020-05-26,16:39:08,Data Validation has Stared.
+2020-05-26,16:39:08,Columns in the data are valid.
+2020-05-26,16:39:08,Exited column_validate module of validateRawTrainingData class.
+2020-05-26,16:39:08,Entered validateRawData
+2020-05-26,16:39:08,Columns are Valid in the Training Data.
+2020-05-26,16:39:08,Null Values Check has started.
+2020-05-26,16:39:08,No column in the Dataset has complete null values.
+2020-05-26,16:39:08,No column in the dataset has complete null values.
+2020-05-26,16:39:08,Exting validate_train of trainValidation class.
+2020-05-26,16:40:04,Entered validate_train class of trainValidation
+2020-05-26,16:40:04,Training Data Validation has started.
+2020-05-26,16:40:04,Data Loading has initiated.
+2020-05-26,16:40:05,Data has been loaded succesfully
+2020-05-26,16:40:05,Exiting the load_data method of trainingDataLoader class.
+2020-05-26,16:40:05,Data Validation has Stared.
+2020-05-26,16:40:05,Columns in the data are valid.
+2020-05-26,16:40:05,Exited column_validate module of validateRawTrainingData class.
+2020-05-26,16:40:05,Entered validateRawData
+2020-05-26,16:40:05,Columns are Valid in the Training Data.
+2020-05-26,16:40:05,Null Values Check has started.
+2020-05-26,16:40:05,No column in the Dataset has complete null values.
+2020-05-26,16:40:05,No column in the dataset has complete null values.
+2020-05-26,16:40:05,Exting validate_train of trainValidation class.
+2020-05-26,16:41:52,Entered validate_train class of trainValidation
+2020-05-26,16:41:52,Training Data Validation has started.
+2020-05-26,16:41:52,Data Loading has initiated.
+2020-05-26,16:41:52,Data has been loaded succesfully
+2020-05-26,16:41:52,Exiting the load_data method of trainingDataLoader class.
+2020-05-26,16:41:52,Data Validation has Stared.
+2020-05-26,16:41:52,Columns in the data are valid.
+2020-05-26,16:41:52,Exited column_validate module of validateRawTrainingData class.
+2020-05-26,16:41:52,Entered validateRawData
+2020-05-26,16:41:52,Columns are Valid in the Training Data.
+2020-05-26,16:41:52,Null Values Check has started.
+2020-05-26,16:41:52,No column in the Dataset has complete null values.
+2020-05-26,16:41:52,No column in the dataset has complete null values.
+2020-05-26,16:41:52,Exting validate_train of trainValidation class.
+2020-05-27,14:21:49,Entered validate_train class of trainValidation
+2020-05-27,14:21:49,Training Data Validation has started.
+2020-05-27,14:21:49,An Exception has occured in validate_train of trainValidation class. The Exception is load_data() missing 1 required positional argument: 'filename'
+2020-05-27,14:21:49,Exting validate_train of trainValidation class.
+2020-05-27,14:27:24,Entered validate_train class of trainValidation
+2020-05-27,14:27:24,Training Data Validation has started.
+2020-05-27,14:27:24,An Exception has occured in validate_train of trainValidation class. The Exception is load_data() missing 1 required positional argument: 'filename'
+2020-05-27,14:27:24,Exting validate_train of trainValidation class.
+2020-05-27,14:29:17,Entered validate_train class of trainValidation
+2020-05-27,14:29:17,Training Data Validation has started.
+2020-05-27,14:29:17,Data Loading has initiated.
+2020-05-27,14:29:17,Data has been loaded succesfully
+2020-05-27,14:29:17,Exiting the load_data method of trainingDataLoader class.
+2020-05-27,14:29:17,Data Validation has Stared.
+2020-05-27,14:29:18,Columns in the data are not valid.
+2020-05-27,14:29:18,Exited column_validate module of validateRawTrainingData class.
+2020-05-27,14:29:18,Entered validateRawData
+2020-05-27,14:29:18,Columns are not valid in the Training Data.
+2020-05-27,14:29:18,Null Values Check has started.
+2020-05-27,14:29:18,No column in the Dataset has complete null values.
+2020-05-27,14:29:18,No column in the dataset has complete null values.
+2020-05-27,14:29:18,Exting validate_train of trainValidation class.
+2020-05-27,14:36:22,Entered validate_train class of trainValidation
+2020-05-27,14:36:22,Training Data Validation has started.
+2020-05-27,14:36:22,Data Loading has initiated.
+2020-05-27,14:36:25,Data has been loaded succesfully
+2020-05-27,14:36:25,Exiting the load_data method of trainingDataLoader class.
+2020-05-27,14:36:25,Data Validation has Stared.
+2020-05-27,14:36:25,Columns in the data are valid.
+2020-05-27,14:36:25,Exited column_validate module of validateRawTrainingData class.
+2020-05-27,14:36:25,Entered validateRawData
+2020-05-27,14:36:25,Columns are Valid in the Training Data.
+2020-05-27,14:36:25,Null Values Check has started.
+2020-05-27,14:36:25,No column in the Dataset has complete null values.
+2020-05-27,14:36:25,No column in the dataset has complete null values.
+2020-05-27,14:36:25,Exting validate_train of trainValidation class.
+2020-05-27,14:40:48,Entered validate_train class of trainValidation
+2020-05-27,14:40:48,Training Data Validation has started.
+2020-05-27,14:40:48,Data Loading has initiated.
+2020-05-27,14:40:50,Data has been loaded succesfully
+2020-05-27,14:40:50,Exiting the load_data method of trainingDataLoader class.
+2020-05-27,14:40:50,Data Validation has Stared.
+2020-05-27,14:40:50,Columns in the data are valid.
+2020-05-27,14:40:50,Exited column_validate module of validateRawTrainingData class.
+2020-05-27,14:40:50,Entered validateRawData
+2020-05-27,14:40:50,Columns are Valid in the Training Data.
+2020-05-27,14:40:50,Null Values Check has started.
+2020-05-27,14:40:50,No column in the Dataset has complete null values.
+2020-05-27,14:40:50,No column in the dataset has complete null values.
+2020-05-27,14:40:50,Exting validate_train of trainValidation class.
+2020-05-28,17:50:38,Entered validate_train class of trainValidation
+2020-05-28,17:50:38,Training Data Validation has started.
+2020-05-28,17:50:38,Data Loading has initiated.
+2020-05-28,17:50:39,Data has been loaded succesfully
+2020-05-28,17:50:39,Exiting the load_data method of trainingDataLoader class.
+2020-05-28,17:50:39,Data Validation has Stared.
+2020-05-28,17:50:39,Columns in the data are valid.
+2020-05-28,17:50:39,Exited column_validate module of validateRawTrainingData class.
+2020-05-28,17:50:39,Entered validateRawData
+2020-05-28,17:50:39,Columns are Valid in the Training Data.
+2020-05-28,17:50:39,Null Values Check has started.
+2020-05-28,17:50:39,No column in the Dataset has complete null values.
+2020-05-28,17:50:39,No column in the dataset has complete null values.
+2020-05-28,17:50:39,Exting validate_train of trainValidation class.

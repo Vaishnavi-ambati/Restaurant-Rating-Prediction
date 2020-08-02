@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/single.css') }}">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <title>Errors</title>
+</head>
+<body>
+
+    <nav class="navbar navbar-light bg-dark justify-content-between">
+      <a class="navbar-brand" style="color:#2ec4b6">Company Name</a>
+      <form class="form-inline">
+        <p class="lead">
+          <button type="button" onclick= "window.location.href='main.html'" class="btn btn-warning">Home</button>
+        </p>
+        <p class="lead">
+          <button type="button" onclick= "window.location.href='single.html'" class="btn btn-link" style="color:#f0f3bd;">Bulk Prediction</button>
+        </p>
+        <p class="lead">
+          <button type="button" onclick= "window.location.href='bulk.html'" class="btn btn-link" style="color:#f0f3bd;">Single order Prediction</button>
+        </p>
+      </form>
+    </nav>
+<p></p>
+<br>
+    <p></p>
+    <div class="container">
+        <p></p>
+            <div class="jumbotron">
+                <h3> Sorry the data provided is not valid. Please check your data and upload again. </h3>
+            </div>
+    </div>
+
+</body>
+</html>

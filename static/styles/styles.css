@@ -1,0 +1,80 @@
+#bar{
+  color: white;
+}
+#namebar{
+  color: white;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+#bar:hover {
+  color: #b8f2e6;
+}
+body{
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+#single-page-header{
+  background-attachment: fixed !important;
+  background-image: url("images/image3.jpg");
+  background-repeat: repeat;
+  background-size: cover;
+  color: #ffffff;
+  display: inline;
+  float: left;
+  width: 100%;
+}
+
+.textinjumbo{
+  color: #b8f2e6;
+}
+
+.jumbotron{
+  margin-top: 20px;
+  background-color: #1c2541;
+}
+
+#images{
+  max-width: 250px;
+  margin-left: 50px;
+  height:200px;
+}
+
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #b8f2e6;
+  border: none;
+  color: #1c2541;
+  width: 210px;
+  text-align: center;
+  font-size: 13px;
+  padding: 20px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+

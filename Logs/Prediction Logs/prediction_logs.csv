@@ -1,0 +1,16 @@
+date,time,logs
+2020-06-08,21:55:31,Prediction of data has started
+2020-06-08,21:55:31,Entered predict_data of predictData class
+2020-06-08,21:55:31,Entered load_prediction_data method of predictionDataLoader class.
+2020-06-08,21:55:31,Loading of prediction Data has Started.
+2020-06-08,21:55:32,Data has been loadded succesfully
+2020-06-08,21:55:32,Exiting load_prediction_data method of predictionDataLoader class.
+2020-06-08,21:55:32,Entered preprocess_prediction_data of dataProcessor class
+2020-06-08,21:55:32,Data preprocessing has been initiated.
+2020-06-08,21:55:44,Data Preprocessing has completed. Exiting the preprocess_prediction_data method of dataPreprocessor class.
+2020-06-08,21:55:44,Model loading has started
+2020-06-08,21:55:44,Entered load_model method of saveLoadModel class.
+2020-06-08,21:55:44,ModelXGBoosthas loaded Succesfully.
+2020-06-08,21:55:44,Exiting load_model method of saveLoadModel class.
+2020-06-08,21:55:45,Prediction of Data is a success.
+2020-06-08,21:55:45,Exiting the predict_data method of predictData class.
