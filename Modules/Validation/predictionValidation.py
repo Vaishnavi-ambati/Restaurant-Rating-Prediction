@@ -11,7 +11,7 @@ class prediction_validation:
                             Output: CSV file containing the logs of Validation.
                             On Failure: Raise Exception
 
-                            Written By: Murali Krishna Chintha
+                            Written By: Vaishnavi Ambati
                             Version: 1.0
                             Revisions: None
     """
@@ -32,7 +32,7 @@ class prediction_validation:
                                 Output: CSV file containing the logs of Validation.
                                 On Failure: Raise Exception
 
-                                Written By: Murali Krishna Chintha
+                                Written By: Vaishnavi Ambati
                                 Version: 1.0
                                 Revisions: None
         """
@@ -67,8 +67,6 @@ class prediction_validation:
             else:
                 return False
 
-            # if everything is okay, deal with the null values and insert the data into database(yet to be done.)
-            # self.train_validation_logs.to_csv('C:\\Users\\mural\\OneDrive - University of Wisconsin-Stout\\Desktop\\New folder')
 
         except Exception as e:
 

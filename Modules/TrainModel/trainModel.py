@@ -28,7 +28,7 @@ class trainModel:
                                 Output: saves the best model the specified directory.
                                 On Failure: Raise Exception
 
-                                Written By: Murali Krishna Chintha
+                                Written By: Vaishnavi Ambati
                                 Version: 1.0
                                 Revisions: None
         """

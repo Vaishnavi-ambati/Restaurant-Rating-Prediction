@@ -7,7 +7,7 @@ class validate_raw_data:
                             Description: Validates the prediction data.
                             On Failure: Raise Exception
 
-                            Written By: Murali Krishna Chintha
+                            Written By: Vaishnavi Ambati
                             Version: 1.0
                             Revisions: None
     """
@@ -25,7 +25,7 @@ class validate_raw_data:
                                 Output: True/False
                                 On Failure: Raise Exception
 
-                                Written By: Murali Krishna Chintha
+                                Written By: Vaishnavi Ambati
                                 Version: 1.0
                                 Revisions: None
         """
@@ -84,7 +84,7 @@ class validate_raw_data:
                                 Output: True/False
                                 On Failure: Raise Exception
 
-                                Written By: Murali Krishna Chintha
+                                Written By: Vaishnavi Ambati
                                 Version: 1.0
                                 Revisions: None
         """

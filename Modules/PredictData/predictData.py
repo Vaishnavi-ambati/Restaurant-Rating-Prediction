@@ -12,7 +12,7 @@ class predictData:
                             Output: CSV file containing the ratings of the restaurants given in the input file.
                             On Failure: Raise Exception
 
-                            Written By: Murali Krishna Chintha
+                            Written By: Vaishnavi Ambati
                             Version: 1.0
                             Revisions: None
     """
@@ -38,7 +38,7 @@ class predictData:
                                 Output: CSV file containing the ratings of the restaurants given in the input file.
                                 On Failure: Raise Exception
 
-                                Written By: Murali Krishna Chintha
+                                Written By: Vaishnavi Ambati
                                 Version: 1.0
                                 Revisions: None
         """
@@ -99,7 +99,7 @@ class predictData:
                                         Output: Rating of the restaurant
                                         On Failure: Raise Exception
 
-                                        Written By: Murali Krishna Chintha
+                                        Written By: Vaishnavi Ambati
                                         Version: 1.0
                                         Revisions: None
                 """

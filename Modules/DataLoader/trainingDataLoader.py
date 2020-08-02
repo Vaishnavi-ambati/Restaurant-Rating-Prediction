@@ -16,7 +16,7 @@ class data_loader:
              Input: None
              Output: Returns Returns a dataframe.
 
-             Written By: Murali Krishna Chintha
+             Written By: Vaishnavi Ambati
              Version: 1.0
              Revisions: None
         """

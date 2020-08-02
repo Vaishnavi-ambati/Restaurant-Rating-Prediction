@@ -6,7 +6,7 @@ class saveLoadModel:
     """
                             Class Name: saveLoadModel
 
-                            Written By: Murali Krishna Chintha
+                            Written By: Vaishnavi Ambati
                             Version: 1.0
                             Revisions: None
     """
@@ -24,7 +24,7 @@ class saveLoadModel:
                                 Output: Pickle file containing the model.
                                 On Failure: Raise Exception
 
-                                Written By: Murali Krishna Chintha
+                                Written By: Vaishnavi Ambati
                                 Version: 1.0
                                 Revisions: None
         """
@@ -59,7 +59,7 @@ class saveLoadModel:
                                 Output: model name
                                 On Failure: Raise Exception
 
-                                Written By: Murali Krishna Chintha
+                                Written By: Vaishnavi Ambati
                                 Version: 1.0
                                 Revisions: None
         """
@@ -82,7 +82,7 @@ class saveLoadModel:
                                 Output: model
                                 On Failure: Raise Exception
 
-                                Written By: Murali Krishna Chintha
+                                Written By: Vaishnavi Ambati
                                 Version: 1.0
                                 Revisions: None
         """

@@ -7,7 +7,7 @@ class predictionDataLoader():
                             Output: Returns a CSV file containing the prediction data
                             On Failure: Raise Exception
 
-                            Written By: Murali Krishna Chintha
+                            Written By: Vaishnavi Ambati
                             Version: 1.0
                             Revisions: None
     """
@@ -23,7 +23,7 @@ class predictionDataLoader():
                                 Output: Returns a CSV file containing the prediction data
                                 On Failure: Raise Exception
 
-                                Written By: Murali Krishna Chintha
+                                Written By: Vaishnavi Ambati
                                 Version: 1.0
                                 Revisions: None
         """

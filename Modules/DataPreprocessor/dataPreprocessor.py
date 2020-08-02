@@ -14,7 +14,7 @@ class processData:
                             Input: logger_obj, log_file
                             On Failure: Raise Exception
 
-                            Written By: Murali Krishna Chintha
+                            Written By: Vaishnavi Ambati
                             Version: 1.0
                             Revisions: None
     """
@@ -31,7 +31,7 @@ class processData:
                                     Input: cuisine
                                     Input Type: string(str)
 
-                                    Written By: Murali Krishna Chintha
+                                    Written By: Vaishnavi Ambati
                                     Version: 1.0
                                     Revisions: None
         """
@@ -54,7 +54,7 @@ class processData:
                                             Input: review
                                             Input Type: string(str)
 
-                                            Written By: Murali Krishna Chintha
+                                            Written By: Vaishnavi Ambati
                                             Version: 1.0
                                             Revisions: None
                 """
@@ -80,7 +80,7 @@ class processData:
              Input Type: string(str)
              Onput: 1 - Postive Sentiment, 0 - Negative Sentiment
 
-             Written By: Murali Krishna Chintha
+             Written By: Vaishnavi Ambati
              Version: 1.0
              Revisions: None
         """
@@ -102,7 +102,7 @@ class processData:
              Input Type: dataframe
              Onput: Returns a processsed dataframe.
 
-             Written By: Murali Krishna Chintha
+             Written By: Vaishnavi Ambati
              Version: 1.0
              Revisions: None
         """
@@ -191,7 +191,7 @@ class processData:
              Input Type: dataframe - dataframe, columns - list
              Output: Returns a dataframe without the specified columns.
 
-             Written By: Murali Krishna Chintha
+             Written By: Vaishnavi Ambati
              Version: 1.0
              Revisions: None
         """
@@ -210,7 +210,7 @@ class processData:
              Input Type: dataframe - dataframe
              Output: Null Value dictionary containing the columns in which null values are present and its value, True/False
 
-             Written By: Murali Krishna Chintha
+             Written By: Vaishnavi Ambati
              Version: 1.0
              Revisions: None
         """
@@ -256,7 +256,7 @@ class processData:
              Input Type: dataframe - dataframe, label_column_name - string
              Output: Returns two dataframes X,Y
 
-             Written By: Murali Krishna Chintha
+             Written By: Vaishnavi Ambati
              Version: 1.0
              Revisions: None
         """
@@ -292,7 +292,7 @@ class processData:
              Input Type: dataframe - dataframe
              Output: Returns dataframe
 
-             Written By: Murali Krishna Chintha
+             Written By: Vaishnavi Ambati
              Version: 1.0
              Revisions: None
         """
@@ -378,7 +378,7 @@ class processData:
                      Input Type: list
                      Output: Returns dataframe
 
-                     Written By: Murali Krishna Chintha
+                     Written By: Vaishnavi Ambati
                      Version: 1.0
                      Revisions: None
                 """
