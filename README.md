@@ -54,6 +54,9 @@ ID_TA	| identification of the restaurant in the TA database constructed a one le
 
 * Each row in review column had a list of two reviews. I have created two new features from review column which contains the sentiments of the two reviews. This increased the accuracy of the model by a bit.
 
+The Process flow of the project:
+![flow](https://user-images.githubusercontent.com/50202237/84906666-e088c500-b0cf-11ea-99eb-8ae5e366254e.png)
+
 
 ## Getting Started
 
