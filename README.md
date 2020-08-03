@@ -68,6 +68,7 @@ The Process flow of the project:
 5. Install the required modules in the environment using the requirements.txt file. (for help see this [tutorial](https://note.nkmk.me/en/python-pip-install-requirements/))
 6. Open the script.sql file in Mysql and run the script to create database and tables
 7. Open DbInsertion.py file and change the connection to your values (line 36)
+
    Ex: connection = mysql.connector.connect(host="127.0.0.1", user="your username", password="your password",
                                                  database="databaseName")
 8. After installing the required modules. You are all set! Run the 'main.py' file and the app will be hosted in your local server.
