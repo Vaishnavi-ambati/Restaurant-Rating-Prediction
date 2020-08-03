@@ -62,7 +62,7 @@ The Process flow of the project:
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept []  within this repo.
+2. Raw Data is being kept [here](https://drive.google.com/file/d/11CzX343F9wXlF2-UwmFE4HbHw0CbnlPD/view?usp=sharing)
 3. Data processing/transformation scripts are being kept [here](https://github.com/Vaishnavi-ambati/Restaurant-Rating-Prediction/tree/master/Modules).
 4. After cloning the repo, open an editor of your choice and create a new environment.(for help see this [tutorial](https://realpython.com/lessons/creating-virtual-environment/))
 5. Install the required modules in the environment using the requirements.txt file. (for help see this [tutorial](https://note.nkmk.me/en/python-pip-install-requirements/))
