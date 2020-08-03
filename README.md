@@ -10,6 +10,7 @@
 ## Project Intro
 Restaurant Rating has become the most commonly used parameter for judging a restaurant for any individual. A lot of research has been done on different restaurants and the quality of food it serves. Rating of a restaurant depends on factors like reviews, area situated, average cost for two people, votes, cuisines and the type of restaurant. The objective of this project is to build a webapp that predicts the rating of a restaurant. 
 
+To skip the description and get started :) [cilck here!](https://github.com/Vaishnavi-ambati/Restaurant-Rating-Prediction/blob/master/README.md#getting-started)
 
 ### Methods Used
 * Inferential Statistics
