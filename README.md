@@ -1,5 +1,8 @@
 # Restaurant-Rating-Prediction
-
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/flask)
+[![Website myfakewebsitethatshouldnotexist.at.least.i.hope](https://img.shields.io/website-up-down-green-red/http/myfakewebsitethatshouldnotexist.at.least.i.hope.svg)](https://www.google.com/url?q=https%3A%2F%2Fta-restaurant-ratings.el.r.appspot.com)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 
 #### -- Project Status: Completed
